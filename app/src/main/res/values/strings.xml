@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">firstReport</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="item_1">Offers</string>
+    <string name="item_2">Electronics</string>
+    <string name="item_3">Lifestyle</string>
+    <string name="item_4">Home Appliances</string>
+    <string name="item_5">Books \u0026 More</string>
+    <string name="item_6">More</string>
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">About</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="name">Enter your Name</string>
+    <string name="email">Enter your Email</string>
+    <string name="mobile">Enter your Mobile Number</string>
+    <string name="address">Enter your Address</string>
+</resources>
